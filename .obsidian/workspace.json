@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin Corutines/Dispatcher.md",
+                "file": "node/In-depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin Corutines/Dispatcher.md",
+                "file": "node/In-depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin Corutines/Dispatcher.md"
+                "file": "node/In-depth.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "f4aceb3dc9463cf9",
   "lastOpenFiles": [
+    "Kotlin Corutines/Dispatcher.md",
     "node/assets/2023-01-29_18-42.png",
     "node/In-depth.md",
     "node/assets/2023-01-29-182926_556x472_scrot.png",
@@ -169,7 +170,6 @@
     "Mongo/Untitled.canvas",
     "Kotlin Corutines/1.Corutines.md",
     "Kotlin Corutines/Context.md",
-    "WithContxt.md",
-    "Kotlin Corutines/Dispatcher.md"
+    "WithContxt.md"
   ]
 }
