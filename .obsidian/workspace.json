@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin Corutines/Dispatcher.md",
+                "file": "node/Node - In-depth.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b35184a2054d2a4",
+            "id": "b3e63d8126bbb9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node/In-depth.md",
+                "file": "Grpc/Grpc.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node/In-depth.md",
+                "file": "Grpc/Grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node/In-depth.md",
+                "file": "Grpc/Grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node/In-depth.md"
+                "file": "Grpc/Grpc.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4aceb3dc9463cf9",
+  "active": "b3e63d8126bbb9d5",
   "lastOpenFiles": [
-    "Kotlin Corutines/Dispatcher.md",
-    "node/assets/2023-01-29_18-42.png",
-    "node/In-depth.md",
-    "node/assets/2023-01-29-182926_556x472_scrot.png",
-    "Untitled.canvas",
-    "Mongo/Introduzione a Mongodb.md",
-    "Mongo/Untitled.canvas",
+    "Grpc/assets/Pasted image 20230202170630.png",
+    "Grpc/assets/Pasted image 20230202165526.png",
+    "Grpc/Grpc.md",
+    "node/Node - In-depth.md",
+    "Kotlin Corutines/Thread pool.md",
     "Kotlin Corutines/1.Corutines.md",
+    "Kotlin Corutines/Dispatcher.md",
+    "Kotlin Corutines/Scope.md",
     "Kotlin Corutines/Context.md",
-    "WithContxt.md"
+    "node/assets/2023-01-29_18-42.png"
   ]
 }
