@@ -62,3 +62,61 @@ The event loop is based on a single thread so it will not take advantage of mult
 	- Task running in the threadpool are the 'pendingOsTasks' mentioned above.
 
 #thread 
+
+
+
+
+## Overview
+![[Pasted image 20230201125929.png]] 
+
+
+
+
+## Enhancing performance
+We can mitigate the perfomance impact on many op on our programs
+	- Use Node in ***Cluster*** mode 
+	- Use ***Worker thread***
+
+## Cluster
+	Using cluster mean use multiple node process, there will be always one main process (the cluster manager)  that will monitor the children process.
+	The cluster manager does not execute any application code.
+
+***Creation of cluster***
+```Javascript
+const cluster = require('cluster')
+
+if(cluster.isMaster){
+	// Cause the programm to be executed again in "slave" mode
+	cluster.fork()
+}else{
+	// Do slave stuff
+}
+```
+
+## Worker thread
+
+![[Pasted image 20230201162735.png]]
+
+- The upper layer "our app" indicate the event loop , in the bottom the new thread that will execute the "heavy code"
+- The main thread can comunicate with worker thread thanks to "onMessage" and "postMessage"
+Example code:
+```Javascript
+const worker = new Worker(function(){
+	// Worker context
+	this.onmessage = function() {
+		// Heavy Stuff
+		// Replay message
+		postMessage();
+	}
+});
+
+// Parent context
+// recive a message
+worker.onmessage = function() {
+
+}
+
+// Send a message
+worker.postMessage()
+
+```
