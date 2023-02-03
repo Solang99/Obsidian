@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "spellcheckDictionary": [
     "protobuffers"
   ]
