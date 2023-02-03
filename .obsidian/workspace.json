@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f17c91c7cf0e94d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cd61b289d4e31bf4",
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grpc/Grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grpc/Grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grpc/Grpc.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,17 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e63d8126bbb9d5",
+  "active": "f17c91c7cf0e94d2",
   "lastOpenFiles": [
+    "Grpc/Grpc.md",
+    "Grpc/Protobuffer.md",
     "Grpc/assets/Pasted image 20230202170630.png",
     "Grpc/assets/Pasted image 20230202165526.png",
-    "Grpc/Grpc.md",
     "node/Node - In-depth.md",
     "Kotlin Corutines/Thread pool.md",
     "Kotlin Corutines/1.Corutines.md",
     "Kotlin Corutines/Dispatcher.md",
     "Kotlin Corutines/Scope.md",
-    "Kotlin Corutines/Context.md",
-    "node/assets/2023-01-29_18-42.png"
+    "Kotlin Corutines/Context.md"
   ]
 }
