@@ -1,7 +1,7 @@
 Grpc (Remote procedure code), ands allow to directally call a function on the server
 
-### Why To use protobuffer
-- Compared to json has a bug difference in ppayload size
+### Why To use [[Protobuffer]]
+- Compared to json has a bug difference in payload size
 ![[Pasted image 20230202165526.png]]
 
 - Less CPU intensive (efficent serialization deserialization)
