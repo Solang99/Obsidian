@@ -19,3 +19,9 @@ We create users to give them permission, they can be assigned thanks to a JSON d
 		- `Action` List of action that this policy allow or denies (based on effect)
 		- `Resource` List of res to which the action is applied
 		- `Condiction`: for when this policy is in effect
+
+### Password policy
+In order to increase security level for our account, we can use stronger password.  There is also a better way to increase security, the MFA. 
+
+## IAM ROLES
+Basically are like give permission to AWS service (can be used to allow some service to communicate)
