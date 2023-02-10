@@ -56,31 +56,49 @@
             }
           },
           {
-            "id": "f97af02415210192",
+            "id": "7079b76ff346e4e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AWS Certified Solutions Architect/assets/Pasted image 20230206140738.png"
+              }
+            }
+          },
+          {
+            "id": "037af81ee6d2c43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootstrap.md",
+                "file": "AWS Certified Solutions Architect/AWS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4bb8158c16c53e2",
+            "id": "3fdc162671b36498",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e38cc80d1fccc9fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Certified Solutions Architect/EC2.md",
+                "file": "Domande interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concurrency",
+                "query": "tag:#aw",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cd61b289d4e31bf4",
@@ -146,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Certified Solutions Architect/EC2.md",
+                "file": "Domande interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Certified Solutions Architect/EC2.md",
+                "file": "Domande interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,12 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Certified Solutions Architect/EC2.md"
+                "file": "Domande interview.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,17 +225,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4bb8158c16c53e2",
+  "active": "e38cc80d1fccc9fd",
   "lastOpenFiles": [
-    "Mongo/Introduzione a Mongodb.md",
-    "Bootstrap.md",
+    "node/Node - In-depth.md",
     "AWS Certified Solutions Architect/EC2.md",
-    "Untitled.canvas",
+    "AWS Certified Solutions Architect/EFS.md",
+    "AWS Certified Solutions Architect/EBS.md",
+    "AWS Certified Solutions Architect/EC2 Instance Store.md",
     "AWS Certified Solutions Architect/AWS.md",
     "AWS Certified Solutions Architect/IAM.md",
-    "Grpc/Protobuffer.md",
-    "Grpc/Grpc.md",
-    "Grpc/assets/Pasted image 20230202170630.png",
-    "Grpc/assets/Pasted image 20230202165526.png"
+    "Mongo/Introduzione a Mongodb.md",
+    "Domande interview.md",
+    "AWS Certified Solutions Architect/assets/Pasted image 20230206140612.png"
   ]
 }

@@ -18,3 +18,10 @@ An Availability Zone (AZ) is one or more discrete data centers with redundant po
 ### Core concepts
 - [[IAM]]
 - [[EC2]]
+	- [[EBS]]
+	- [[EC2 Instance Store]]
+	- [[EFS]]
+
+
+
+#cloud #AWS

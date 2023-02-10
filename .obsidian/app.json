@@ -2,6 +2,9 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "spellcheckDictionary": [
-    "protobuffers"
+    "protobuffers",
+    "Elastic",
+    "IP",
+    "ip"
   ]
 }
