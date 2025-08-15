@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "mitologia": 1,
+    "narrativa": 2,
+    "narrativa-storica": 3,
+    "fantasy": 4,
+    "racconti": 5,
+    "scienza": 6,
+    "psicologia": 7,
+    "filosofia": 8,
+    "sviluppo-personale": 9,
+    "strategia": 10,
+    "romance": 11,
+    "produttività": 12,
+    "classici": 13,
+    "poesia": 14,
+    "saggi": 15,
+    "autobiografia": 16,
+    "motivazione": 17
+  },
+  "_version": 3
+}
