@@ -531,3 +531,161 @@ La storia di via Paolo Sarpi è la storia di una comunità che ha saputo radicar
 È il racconto di come una strada possa diventare **patrimonio culturale condiviso**, custode di memorie e laboratorio di futuro, pur affrontando le sfide della trasformazione urbana e mantenendo un legame profondo con la madrepatria.
 
 > *“Per la comunità cinese, via Sarpi non è solo un indirizzo: è una casa collettiva, un ponte tra due mondi, e oggi anche un banco di prova per capire come tradizione e modernità possano convivere.”*
+
+
+
+# Leggende varie 
+#leggende
+
+
+## Il Duomo e il Diavolo
+
+### Introduzione
+Cuore spirituale e simbolico di Milano, il Duomo è una cattedrale di marmo e luce… ma anche di ombre. Dietro la sua costruzione si cela una leggenda infernale che coinvolge direttamente Gian Galeazzo Visconti, il signore di Milano alla fine del XIV secolo.
+
+### La leggenda
+Secondo la tradizione, in una fredda notte d’inverno Satana in persona fece visita a Visconti, svegliandolo con un odore acre di zolfo e il rumore di zoccoli. Gli propose un patto: avrebbe risparmiato la sua anima solo se il duca avesse costruito una chiesa colma di immagini del signore del male.
+
+Visconti, pur incredulo, accettò. Quasi 500 anni dopo, la “volontà del Diavolo” sembrava compiuta: sul Duomo troneggiano ancora oggi **96 doccioni** con demoni e mostri, tra oltre 3.400 statue, scolpiti per spaventare le forze del male.
+
+### Simbolismo
+Queste figure si ispirano ai bestiari medievali e alle paure popolari, mescolando superstizione e arte. La Madonnina, posta solo in seguito, veglia dall’alto per proteggere la città.
+
+---
+
+## Carlina, il fantasma del Duomo
+
+### Introduzione
+Non tutte le presenze del Duomo sono scolpite nella pietra. Alcune, si dice, si aggirano tra le guglie.
+
+### La storia
+Carlina viveva a Schignano, presso Como. Vestita di nero per una tradizione locale, si sposò con Renzo e venne in viaggio di nozze a Milano. Salì sulle terrazze del Duomo, ma un segreto pesava sul suo cuore: aveva tradito lo sposo prima delle nozze ed era rimasta incinta.
+
+In una giornata di nebbia, tentò di raggiungere la Madonnina per chiedere perdono, ma precipitò nel vuoto. Il corpo non fu mai ritrovato.
+
+### La leggenda
+Oggi, Carlina apparirebbe nelle foto delle coppie di sposi che si fanno ritrarre davanti alla cattedrale, un’ombra velata tra sorrisi e bouquet.
+
+---
+
+## Il toro portafortuna della Galleria
+
+### Introduzione
+Nel pavimento della Galleria Vittorio Emanuele II, tra mosaici che celebrano città italiane, spicca un toro.
+
+### Il rito
+Da decenni milanesi e turisti ne calpestano gli attributi con il tallone destro, compiendo tre giri su se stessi. Si dice porti fortuna, assicuri un ritorno a Milano o addirittura favorisca la fertilità.
+
+### Curiosità
+L’usura della pietra è tale che il pavimento viene periodicamente restaurato. Un rito semplice, ma irresistibile per chi attraversa la “salotto” della città.
+
+---
+
+## Palazzo Marino – la maledizione
+
+### Introduzione
+Oggi sede del Comune di Milano, Palazzo Marino ha una storia di ambizione, amore e maledizioni.
+
+### La storia
+Costruito dal banchiere genovese Tommaso Marino nel 1558 per la bella Arabella Cornaro, fu eretto espropriando intere case e quartieri, guadagnando l’odio dei milanesi. La leggenda racconta che Arabella, infelice, si tolse la vita; Marino morì rovinato, lasciando il palazzo incompiuto.
+
+### La maledizione
+I cittadini lo maledissero con versi latini: *“O brucerà, o crollerà, o sarà rubato da un altro ladro”*. La sua storia travagliata sembra dar loro ragione.
+
+---
+
+## La Colonna del Diavolo
+
+### Introduzione
+Accanto alla Basilica di Sant’Ambrogio sorge una colonna romana con due fori misteriosi.
+
+### La leggenda
+Si narra che Sant’Ambrogio, infastidito dal Diavolo, lo colpì con un calcio facendogli conficcare le corna nella pietra. Da allora, i due buchi testimoniano lo scontro.
+
+### Curiosità
+Secondo la tradizione, avvicinando l’orecchio a uno dei fori si udirebbe l’eco dell’Inferno.
+
+---
+
+## Le streghe di Piazza Vetra
+
+### Introduzione
+Dietro le Colonne di San Lorenzo, Piazza Vetra era un luogo di povertà e condanne capitali.
+
+### La storia
+Tra il XIV e il XVII secolo, qui si tenevano roghi per stregoneria. Sibillia Zanni, Caterina dei Medici e molti altri furono accusati e giustiziati.
+
+### Il mistero
+Il ponte che conduceva alla piazza era detto “della Morte” e l’atmosfera cupa alimentò leggende di sabba e malefici fino all’abolizione dell’Inquisizione.
+
+---
+
+## Il mostro di via Bagnera
+
+### Introduzione
+Via Bagnera è la strada più stretta di Milano, ma nasconde la storia del primo serial killer cittadino.
+
+### La storia
+Tra il 1849 e il 1862 Antonio Boggia uccise diversi conoscenti per derubarli, occultandone i corpi nei suoi immobili. Scoperto, fu giustiziato.
+
+### La leggenda
+Si dice che nelle notti d’inverno un vento gelido percorra la via, segno della sua presenza.
+
+---
+
+## I resti dei Re Magi
+
+### Introduzione
+La Basilica di Sant’Eustorgio custodisce una reliquia insolita: il sarcofago dei Magi.
+
+### La storia
+Trasportate a Milano nel IV secolo, le reliquie furono trafugate da Federico Barbarossa e portate a Colonia. Nel 1906 parte di esse tornò in città.
+
+### Curiosità
+La stella a otto punte sul campanile ricorda la cometa di Betlemme.
+
+---
+
+## San Bernardino alle Ossa
+
+### Introduzione
+In Piazza Santo Stefano si trova una chiesa decorata con ossa umane.
+
+### La storia
+Fondata nel 1268 dalla confraternita dei Disciplini per ospitare le ossa dei defunti, l’ossario è rivestito di teschi e tibie disposti in motivi ornamentali.
+
+### Il fascino macabro
+Il luogo unisce devozione e memento mori, ricordando la fragilità della vita.
+
+---
+
+## La Dama Velata del Parco Sempione
+
+### Introduzione
+Il Parco Sempione ospita un fantasma che seduce e condanna.
+
+### La leggenda
+Vestita di nero e profumata di violetta, la Dama Velata attira giovani uomini nei sentieri più bui. Chi la segue perde la ragione e trascorre la vita a cercarla.
+
+---
+
+## Il Ponte delle Sirenette
+
+### Introduzione
+Primo ponte in ferro d’Italia (1842), originariamente sui Navigli, ora si trova in Parco Sempione.
+
+### La leggenda
+Le quattro sirene di ghisa erano famose tra i giovani milanesi per le forme prosperose. Si dice che toccarle portasse fortuna in amore; baciarsi qui garantirebbe fedeltà eterna.
+
+---
+
+## Il fantasma della Scala
+
+### Introduzione
+Il Teatro alla Scala è il tempio della lirica, ma anche la dimora di un’ospite spettrale.
+
+### La leggenda
+Si racconta che il fantasma di Maria Callas appaia nei pressi del loggione, forse per spaventare i loggionisti che un tempo la fischiarono.
+
+---
+

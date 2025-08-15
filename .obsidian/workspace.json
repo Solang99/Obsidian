@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "travel/italy/Milano.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Milano"
@@ -63,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#leggende",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +192,8 @@
   },
   "active": "965d5945c9ee0a65",
   "lastOpenFiles": [
-    "travel/italy/milan/1. Navigli.md",
     "travel/italy/Milano.md",
+    "travel/italy/milan/1. Navigli.md",
     "travel/italy/milan/0. Cibo.md",
     "travel/italy/milan",
     "software/authentication/Base.md",
